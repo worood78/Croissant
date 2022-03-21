@@ -1,12 +1,26 @@
 body {
   background-color: antiquewhite;
+  text-align: center;
+  margin-top: 50px;
 }
 h1 {
-  text-align: center;
   color: brown;
-  margin-top: 50px;
+  margin-top: 10px;
+  margin-bottom: 0;
   font-size: 75px;
 }
 a {
   color: rgb(23, 23, 161);
+}
+p {
+  font-size: larger;
+  color: rgb(68, 33, 33);
+  margin-left: 150px;
+  margin-right: 150px;
+  background-color: rgb(235, 216, 191);
+  padding: 10px;
+}
+img {
+  width: 400px;
+  height: 300px;
 }
